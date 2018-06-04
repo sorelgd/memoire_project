@@ -18,5 +18,4 @@ INSERT INTO `domaine` (`id`, `codeDomaine`, `nameDomaine`, `isactive`) VALUES
 (12,'12','Economie et Finance',1),
 (13,'13','Histoire',1),
 (14,'14','Sciences',1),
-(15,'15','Rapports de stage',1),
-(16,'16','Santé',1);
+(15,'15','Rapports de stage',1);
